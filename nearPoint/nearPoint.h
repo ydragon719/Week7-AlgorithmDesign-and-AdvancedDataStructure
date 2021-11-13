@@ -1,12 +1,6 @@
 #include <cstdlib>
 #include <iostream>
 
-
-
-
-
-
-
 class PointX
 {
 public:
